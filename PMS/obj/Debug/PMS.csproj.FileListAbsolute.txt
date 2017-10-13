@@ -1,0 +1,17 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\bin\Debug\PMS.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\bin\Debug\PMS.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\bin\Debug\PMS.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.MainForm.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.login.resources
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.Medicines.resources
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.Customer.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Debug\PMS.CustomerList.resources
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.CustomerHistory.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Debug\PMS.Billing.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Debug\PMS.MedHistory.resources
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Debug\PMS.Message.resources

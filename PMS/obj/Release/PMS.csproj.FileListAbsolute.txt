@@ -1,0 +1,13 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\bin\Release\PMS.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\bin\Release\PMS.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\bin\Release\PMS.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.Customer.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.CustomerList.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.login.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.MainForm.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.Medicines.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.Properties.Resources.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\PMS\PMS\obj\Release\PMS.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PMS\PMS\obj\Release\PMS.csprojResolveAssemblyReference.cache
